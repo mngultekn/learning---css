@@ -1,0 +1,64 @@
+.bg1 {
+  height: 400px;
+  background-image: url(things-to-do-in-istanbul_things-to-do-in-istanbul-turkey.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg2 {
+  height: 400px;
+  background-image: url(cfbd00cb-90a6-3c59-9e02-ea3254575bb6.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg3 {
+  height: 400px;
+  background-image: url(istockphoto-1284451566-612x612.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg4 {
+  height: 400px;
+  background-image: url(images.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg5 {
+  height: 400px;
+  background-image: url(iOA665pDf2mr7M8P-636554123779981811.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 5px;
+}
+
+.page h3 {
+  font: bold 40px Arial, Helvetica, sans-serif;
+  background-color: purple;
+  color: #fff;
+  padding: 20px;
+  margin: 0;
+  position: sticky;
+  top: 0;
+  text-align: center;
+}
+
+.between {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  opacity: none;
+  width: 75px;
+  height: 35px;
+  background-color: black;
+  text-decoration: double;
+  z-index: 2147483647;
+}
